@@ -36,7 +36,7 @@ pip install Pillow
 
 1. Run the application:
 ```bash
-python file_renamer.py
+python main.py
 ```
 
 2. Using the application:
